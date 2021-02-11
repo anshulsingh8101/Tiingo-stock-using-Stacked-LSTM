@@ -1,4 +1,4 @@
-# Apple-stock-prediction-using-Stacked-LSTM
+# Tiingo-stock-prediction-using-Stacked-LSTM
 
 
 Made the stocks prices to be predicted for a 5 years dataset from TIINGO of APPLE company and worked on the next 30 day prediction...
